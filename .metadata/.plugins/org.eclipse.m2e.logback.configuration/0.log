@@ -1,0 +1,939 @@
+2019-08-14 14:15:59,081 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.build.atmfw:org.atm:0.0.1-SNAPSHOT @ D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\pom.xml.
+2019-08-14 14:16:06,734 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:16:06,735 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-14 14:16:06,736 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:16:06,737 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-14 14:16:09,005 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:16:09,006 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-14 14:16:09,007 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:16:09,007 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-14 14:16:37,189 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:16:37,189 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-14 14:16:37,191 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:16:37,191 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-14 14:16:48,176 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:16:48,177 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-14 14:16:48,178 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:16:48,179 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-14 14:23:22,877 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:23:22,881 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-14 14:23:22,884 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:23:22,885 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-14 14:26:52,815 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:26:52,816 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-14 14:26:52,817 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:26:52,818 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-14 14:35:33,356 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:35:33,356 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-14 14:35:33,358 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:35:33,358 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-14 14:35:37,281 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:35:37,282 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-14 14:35:37,283 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:35:37,284 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-14 14:36:15,030 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:36:15,030 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-14 14:36:15,031 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:36:15,032 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-14 14:38:41,880 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:38:41,880 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-14 14:38:41,882 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 14:38:41,883 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-14 17:20:45,667 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 17:20:45,668 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-14 17:20:45,669 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 17:20:45,670 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-14 17:25:43,268 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 17:25:43,268 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-14 17:25:43,272 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 17:25:43,272 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-14 17:28:34,159 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 17:28:34,159 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-14 17:28:34,160 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 17:28:34,160 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-16 09:43:24,085 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 09:43:24,108 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-16 09:43:24,110 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 09:43:24,110 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-16 12:35:24,265 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:35:24,266 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-16 12:35:24,268 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:35:24,268 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-16 13:56:22,947 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 13:56:22,947 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-16 13:56:22,948 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 13:56:22,949 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-16 13:56:24,334 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 13:56:24,334 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-16 13:56:24,336 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 13:56:24,336 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-16 13:56:32,415 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 13:56:32,415 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-16 13:56:32,416 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 13:56:32,416 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-16 14:12:32,919 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 14:12:32,936 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-16 14:12:32,937 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 14:12:32,938 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-16 14:14:20,649 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 14:14:20,651 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-16 14:14:20,653 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 14:14:20,653 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-16 15:33:21,157 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 15:33:21,157 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-16 15:33:21,160 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 15:33:21,160 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-16 18:41:47,467 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:41:47,483 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-16 18:41:47,483 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:41:47,483 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-16 18:48:59,277 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:48:59,277 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-16 18:48:59,277 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:48:59,277 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-21 15:07:17,768 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 15:07:17,783 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-21 15:07:17,783 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 15:07:17,799 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-22 10:09:07,042 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 10:09:07,074 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-22 10:09:07,074 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 10:09:07,074 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-22 10:25:58,008 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 10:25:58,008 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-22 10:25:58,008 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 10:25:58,008 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-22 10:28:25,910 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 10:28:25,910 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-22 10:28:25,910 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 10:28:25,910 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-22 12:00:52,496 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 12:00:52,496 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-22 12:00:52,496 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 12:00:52,496 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-22 14:28:12,187 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 14:28:12,187 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-22 14:28:12,187 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 14:28:12,187 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-22 14:29:50,181 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 14:29:50,181 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-22 14:29:50,181 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 14:29:50,181 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-22 14:40:38,356 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 14:40:38,356 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-22 14:40:38,356 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 14:40:38,356 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-23 09:27:05,758 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 09:27:05,774 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-23 09:27:05,774 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 09:27:05,774 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-23 16:51:51,500 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 16:51:51,500 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-23 16:51:51,500 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 16:51:51,500 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-26 09:35:44,436 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 09:35:44,454 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-26 09:35:44,456 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 09:35:44,456 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-26 14:31:40,303 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 14:31:40,304 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-26 14:31:40,308 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 14:31:40,308 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-26 14:45:11,982 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 14:45:11,983 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-26 14:45:11,985 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 14:45:11,985 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-26 15:36:27,811 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 15:36:27,812 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-26 15:36:27,814 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 15:36:27,814 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-26 16:48:44,379 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 16:48:44,401 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-26 16:48:44,404 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 16:48:44,404 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-26 16:56:42,003 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 16:56:42,004 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-26 16:56:42,006 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 16:56:42,007 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-26 17:33:32,132 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 17:33:32,132 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-26 17:33:32,135 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 17:33:32,136 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-26 21:33:12,081 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 21:33:12,096 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-26 21:33:12,096 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 21:33:12,096 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-26 22:38:32,289 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 22:38:32,290 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-26 22:38:32,291 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 22:38:32,291 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-26 23:05:41,547 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:05:41,548 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-26 23:05:41,550 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:05:41,550 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-27 09:26:34,298 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 09:26:34,309 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-27 09:26:34,312 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 09:26:34,312 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-27 09:26:50,544 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 09:26:50,545 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-27 09:26:50,547 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 09:26:50,547 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-27 10:04:40,135 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 10:04:40,145 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-27 10:04:40,147 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 10:04:40,147 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-27 10:51:35,857 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 10:51:35,858 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-27 10:51:35,860 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 10:51:35,860 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-27 10:52:47,009 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 10:52:47,009 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-27 10:52:47,012 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 10:52:47,012 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-27 10:58:46,394 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 10:58:46,395 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-27 10:58:46,396 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 10:58:46,396 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-27 11:41:23,505 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 11:41:23,505 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-27 11:41:23,507 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 11:41:23,507 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-27 13:27:18,598 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 13:27:18,598 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-27 13:27:18,600 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 13:27:18,601 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 14:04:12,318 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 14:04:12,337 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 14:04:12,339 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 14:04:12,340 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 14:08:03,587 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 14:08:03,589 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 14:08:03,590 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 14:08:03,590 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 14:24:28,241 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 14:24:28,241 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 14:24:28,243 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 14:24:28,243 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 14:37:09,366 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 14:37:09,366 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 14:37:09,368 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 14:37:09,368 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:08:27,581 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.build.atmfw:org.atm:0.0.1-SNAPSHOT @ D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\pom.xml.
+2019-08-30 16:08:31,865 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:08:31,865 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:08:31,867 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:08:31,867 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:09:07,589 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:09:07,590 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:09:07,592 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:09:07,592 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:09:13,779 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:09:13,780 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:09:13,781 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:09:13,781 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:09:20,618 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:09:20,618 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:09:20,620 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:09:20,620 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:09:31,560 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.build.atmfw:org.atm:0.0.1-SNAPSHOT @ D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\pom.xml.
+2019-08-30 16:09:32,772 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:09:32,772 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:09:32,773 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:09:32,773 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:09:48,371 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:09:48,371 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:09:48,373 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:09:48,373 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:10:15,735 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2019-08-30 16:10:15,761 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:53117
+2019-08-30 16:10:42,604 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:10:42,604 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:10:42,606 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:10:42,606 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:10:52,838 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:10:52,838 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:10:52,840 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:10:52,840 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:11:36,739 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:11:36,739 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:11:36,741 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:11:36,741 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:11:42,599 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:11:42,600 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:11:42,601 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:11:42,601 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:12:04,799 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:12:04,799 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:12:04,801 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:12:04,801 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:12:08,832 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:12:08,832 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:12:08,833 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:12:08,834 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:12:31,799 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:12:31,799 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:12:31,800 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:12:31,801 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:12:35,740 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:12:35,740 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:12:35,742 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:12:35,742 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:12:42,836 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:12:42,836 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:12:42,837 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:12:42,837 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:12:49,443 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:12:49,443 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:12:49,446 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:12:49,446 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:13:10,652 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:13:10,652 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:13:10,654 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:13:10,654 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:13:32,096 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:13:32,096 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:13:32,097 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:13:32,098 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:14:30,561 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:14:30,562 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:14:30,563 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:14:30,563 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:14:43,396 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:14:43,397 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:14:43,399 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:14:43,399 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:15:09,522 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:15:09,522 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:15:09,523 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:15:09,523 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:15:23,777 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:15:23,777 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:15:23,779 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:15:23,779 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:15:27,888 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:15:27,888 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:15:27,889 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:15:27,889 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:17:03,235 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:17:03,236 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:17:03,237 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:17:03,237 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:17:32,191 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:17:32,191 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:17:32,192 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:17:32,193 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:17:38,465 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:17:38,465 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:17:38,467 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:17:38,467 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:17:48,387 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:17:48,387 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:17:48,388 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:17:48,388 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:21:55,062 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:21:55,062 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:21:55,064 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:21:55,064 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:21:56,080 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:21:56,080 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:21:56,082 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:21:56,082 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:22:01,145 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:22:01,145 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:22:01,147 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:22:01,147 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:22:07,764 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:22:07,764 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:22:07,765 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:22:07,766 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:22:16,344 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:22:16,344 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:22:16,345 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:22:16,345 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:45:50,784 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:45:50,784 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:45:50,786 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:45:50,786 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:46:00,411 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:46:00,411 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:46:00,412 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:46:00,412 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:47:52,563 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:47:52,563 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:47:52,565 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:47:52,565 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:47:59,420 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:47:59,420 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:47:59,421 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:47:59,421 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:48:05,090 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:48:05,090 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:48:05,092 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:48:05,092 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:48:41,006 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:48:41,006 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:48:41,007 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:48:41,007 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:48:42,025 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:48:42,025 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:48:42,027 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:48:42,027 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:51:13,120 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:51:13,121 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:51:13,123 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:51:13,123 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:51:24,835 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:51:24,835 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:51:24,838 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:51:24,838 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:58:01,780 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:58:01,781 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:58:01,783 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:58:01,783 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:58:16,887 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:58:16,887 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:58:16,888 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:58:16,888 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:59:00,564 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:59:00,564 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:59:00,566 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:59:00,566 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:59:09,179 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:59:09,179 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:59:09,180 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:59:09,180 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 16:59:49,930 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:59:49,930 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 16:59:49,932 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 16:59:49,932 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:03:58,607 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:03:58,608 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:03:58,609 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:03:58,609 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:05:48,913 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:05:48,913 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:05:48,915 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:05:48,916 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:09:22,569 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:09:22,569 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:09:22,570 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:09:22,571 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:09:35,195 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:09:35,195 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:09:35,196 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:09:35,197 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:09:42,394 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:09:42,394 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:09:42,396 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:09:42,396 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:09:54,967 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:09:54,967 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:09:54,969 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:09:54,969 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:12:02,066 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:12:02,066 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:12:02,069 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:12:02,069 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:12:08,243 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:12:08,243 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:12:08,245 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:12:08,245 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:12:15,980 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:12:15,980 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:12:15,983 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:12:15,983 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:12:24,099 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:12:24,100 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:12:24,102 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:12:24,102 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:12:58,081 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:12:58,081 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:12:58,083 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:12:58,083 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:15:03,561 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:15:03,562 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:15:03,563 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:15:03,563 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:18:02,370 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:18:02,371 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:18:02,372 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:18:02,372 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:18:11,057 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:18:11,057 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:18:11,059 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:18:11,059 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:18:30,901 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:18:30,902 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:18:30,903 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:18:30,903 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:20:48,392 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:20:48,392 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:20:48,394 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:20:48,394 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:23:04,064 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:23:04,064 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:23:04,066 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:23:04,066 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:23:17,700 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:23:17,700 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:23:17,701 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:23:17,701 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:37:37,656 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:37:37,656 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:37:37,658 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:37:37,658 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:37:49,759 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:37:49,759 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:37:49,761 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:37:49,761 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:38:01,389 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:38:01,390 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:38:01,391 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:38:01,391 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:38:12,112 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:38:12,112 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:38:12,113 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:38:12,113 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 17:55:24,874 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:55:24,874 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 17:55:24,877 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 17:55:24,877 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 18:02:29,299 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:02:29,299 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 18:02:29,301 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:02:29,301 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 18:03:11,384 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:03:11,385 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 18:03:11,387 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:03:11,387 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 18:03:15,714 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:03:15,714 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 18:03:15,716 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:03:15,716 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 18:03:16,738 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:03:16,738 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 18:03:16,739 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:03:16,740 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 18:03:33,351 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:03:33,352 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 18:03:33,353 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:03:33,354 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 18:03:40,135 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:03:40,136 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 18:03:40,137 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:03:40,137 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 18:03:52,820 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:03:52,820 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 18:03:52,821 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:03:52,822 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 18:04:42,999 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:04:42,999 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 18:04:43,000 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:04:43,000 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 18:04:44,021 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:04:44,021 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 18:04:44,023 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:04:44,023 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 18:05:01,564 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:05:01,564 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 18:05:01,566 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:05:01,566 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 18:06:10,334 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:06:10,334 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 18:06:10,338 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:06:10,338 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 18:06:22,537 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:06:22,537 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 18:06:22,539 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:06:22,539 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 18:06:27,424 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:06:27,424 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-08-30 18:06:27,425 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-30 18:06:27,425 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-08-30 18:09:31,248 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}
+2019-09-01 15:14:52,991 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:14:53,018 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 15:14:53,025 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:14:53,025 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 15:14:54,287 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:14:54,289 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 15:14:54,291 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:14:54,291 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 15:15:00,180 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:15:00,180 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 15:15:00,182 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:15:00,182 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 15:15:11,399 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:15:11,400 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 15:15:11,401 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:15:11,402 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 15:15:12,458 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:15:12,458 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 15:15:12,460 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:15:12,460 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 15:16:26,985 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:16:26,985 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 15:16:26,986 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:16:26,986 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 15:17:21,967 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:17:21,967 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 15:17:21,968 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:17:21,969 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 15:20:42,423 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:20:42,423 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 15:20:42,429 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:20:42,429 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 15:20:43,472 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:20:43,472 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 15:20:43,474 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:20:43,474 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 15:21:30,158 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:21:30,159 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 15:21:30,160 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:21:30,160 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 15:22:49,674 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:22:49,674 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 15:22:49,676 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:22:49,676 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 15:22:50,761 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:22:50,761 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 15:22:50,764 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:22:50,765 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 15:23:30,144 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:23:30,144 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 15:23:30,146 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:23:30,147 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 15:24:40,246 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:24:40,246 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 15:24:40,248 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 15:24:40,248 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 17:05:37,183 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:05:37,186 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 17:05:37,190 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:05:37,190 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 17:05:44,205 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:05:44,207 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 17:05:44,208 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:05:44,209 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 17:05:54,538 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:05:54,538 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 17:05:54,540 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:05:54,540 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 17:06:00,614 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:06:00,615 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 17:06:00,616 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:06:00,617 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 17:06:05,023 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:06:05,024 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 17:06:05,025 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:06:05,025 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 17:13:34,045 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:13:34,045 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 17:13:34,047 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:13:34,047 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 17:19:18,312 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:19:18,312 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 17:19:18,314 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:19:18,314 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 17:20:02,012 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2019-09-01 17:20:02,041 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:63097
+2019-09-01 17:30:05,063 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:30:05,063 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 17:30:05,067 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:30:05,067 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 17:36:55,433 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:36:55,433 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 17:36:55,435 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:36:55,435 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 17:36:56,469 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:36:56,469 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 17:36:56,471 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:36:56,471 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 17:38:31,959 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:38:31,959 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 17:38:31,960 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:38:31,961 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 17:42:54,759 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:42:54,759 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 17:42:54,762 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:42:54,762 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 17:43:39,852 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:43:39,852 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 17:43:39,854 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 17:43:39,854 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 18:17:16,419 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}
+2019-09-01 20:34:46,274 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2019-09-01 20:34:46,321 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:64053
+2019-09-01 20:38:28,452 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}
+2019-09-01 20:40:48,267 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:40:48,267 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 20:40:48,267 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:40:48,267 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 20:42:25,790 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:42:25,790 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 20:42:25,790 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:42:25,790 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 20:42:39,297 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:42:39,297 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 20:42:39,297 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:42:39,297 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 20:46:51,211 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:46:51,211 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 20:46:51,211 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:46:51,211 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 20:46:52,281 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:46:52,281 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 20:46:52,281 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:46:52,281 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 20:54:03,381 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:54:03,397 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 20:54:03,397 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:54:03,397 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 20:58:34,633 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:58:34,633 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 20:58:34,633 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:58:34,633 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 20:59:20,934 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:59:20,934 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 20:59:20,934 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:59:20,934 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 20:59:30,162 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:59:30,162 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 20:59:30,162 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:59:30,162 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 20:59:34,671 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:59:34,671 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 20:59:34,671 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 20:59:34,671 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:00:53,467 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:00:53,467 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:00:53,467 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:00:53,467 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:06:17,607 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:06:17,607 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:06:17,611 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:06:17,611 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:11:50,809 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:11:50,809 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:11:50,809 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:11:50,809 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:15:41,989 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:15:41,989 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:15:41,989 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:15:41,989 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:16:02,116 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:16:02,116 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:16:02,116 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:16:02,116 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:16:07,317 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:16:07,317 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:16:07,317 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:16:07,317 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:16:25,160 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:16:25,160 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:16:25,160 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:16:25,160 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:16:42,817 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:16:42,817 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:16:42,817 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:16:42,817 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:16:53,048 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:16:53,048 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:16:53,048 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:16:53,048 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:16:59,135 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:16:59,135 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:16:59,135 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:16:59,135 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:17:25,403 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:17:25,403 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:17:25,403 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:17:25,403 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:17:32,576 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:17:32,576 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:17:32,576 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:17:32,576 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:17:34,679 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:17:34,679 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:17:34,679 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:17:34,679 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:17:42,813 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:17:42,813 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:17:42,829 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:17:42,829 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:17:45,506 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2019-09-01 21:17:45,521 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:64557
+2019-09-01 21:17:49,389 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:17:49,389 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:17:49,389 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:17:49,389 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:18:06,621 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:18:06,621 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:18:06,621 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:18:06,621 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:18:39,582 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:18:39,582 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:18:39,582 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:18:39,582 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:18:47,125 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:18:47,125 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:18:47,125 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:18:47,125 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:18:57,274 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:18:57,274 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:18:57,274 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:18:57,274 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:19:53,433 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:19:53,433 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:19:53,433 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:19:53,433 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:20:05,013 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:20:05,029 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:20:05,029 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:20:05,029 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:20:07,583 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:20:07,583 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:20:07,599 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:20:07,599 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:20:28,880 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:20:28,880 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:20:28,880 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:20:28,895 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:49:43,280 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:49:43,280 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:49:43,280 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:49:43,280 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:52:01,455 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:52:01,455 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:52:01,455 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:52:01,455 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 21:52:14,451 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:52:14,467 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 21:52:14,467 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 21:52:14,467 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:13:58,207 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:13:58,223 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:13:58,223 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:13:58,223 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:22:19,778 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:22:19,778 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:22:19,778 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:22:19,778 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:33:19,702 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:33:19,702 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:33:19,718 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:33:19,718 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:37:59,321 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:37:59,321 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:37:59,321 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:37:59,321 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:40:14,472 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:40:14,472 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:40:14,488 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:40:14,488 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:41:44,336 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:41:44,336 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:41:44,336 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:41:44,336 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:46:22,173 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:46:22,173 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:46:22,173 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:46:22,173 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:46:41,405 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:46:41,405 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:46:41,405 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:46:41,405 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:48:14,402 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:48:14,402 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:48:14,402 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:48:14,402 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:51:04,126 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:51:04,126 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:51:04,141 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:51:04,141 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:51:32,863 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:51:32,863 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:51:32,863 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:51:32,863 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:51:55,428 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:51:55,428 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:51:55,428 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:51:55,428 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:52:12,102 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:52:12,102 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:52:12,102 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:52:12,102 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:52:24,712 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:52:24,712 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:52:24,712 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:52:24,712 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:52:46,402 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:52:46,402 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:52:46,402 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:52:46,402 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:52:57,642 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:52:57,642 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:52:57,642 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:52:57,642 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:53:10,847 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:53:10,847 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:53:10,847 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:53:10,847 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:56:38,045 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:56:38,045 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:56:38,045 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:56:38,045 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:59:17,864 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:59:17,864 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:59:17,864 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:59:17,864 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 22:59:25,459 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:59:25,459 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 22:59:25,459 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 22:59:25,459 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 23:01:21,175 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 23:01:21,175 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 23:01:21,175 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 23:01:21,175 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 23:31:29,356 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 23:31:29,356 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 23:31:29,356 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 23:31:29,356 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 23:31:41,139 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 23:31:41,139 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-01 23:31:41,139 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-01 23:31:41,139 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-01 23:39:50,807 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}
+2019-09-02 09:22:49,733 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 09:22:49,743 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-02 09:22:49,745 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 09:22:49,746 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-02 09:22:57,687 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 09:22:57,688 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-02 09:22:57,689 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 09:22:57,689 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-02 09:23:24,168 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 09:23:24,168 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-02 09:23:24,170 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 09:23:24,170 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-02 09:23:41,233 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 09:23:41,234 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-02 09:23:41,235 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 09:23:41,235 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-02 09:24:03,216 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 09:24:03,216 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-02 09:24:03,218 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 09:24:03,218 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-02 09:28:06,303 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2019-09-02 09:28:06,328 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:51394
+2019-09-02 09:59:06,130 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}
+2019-09-10 10:39:42,262 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2019-09-10 10:39:42,296 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:58042
+2019-09-10 13:57:53,309 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}
+2019-09-10 14:29:40,730 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-10 14:29:40,746 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\main\resources
+2019-09-10 14:29:40,746 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-10 14:29:40,746 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sshetokenautomatetest-master\sshetokenautomatetest-master\org.atm\src\test\resources
+2019-09-11 00:12:06,706 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2019-09-11 00:12:06,737 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:62178

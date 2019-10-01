@@ -1,0 +1,185 @@
+﻿seq,description,action,object Type,object,data,expected
+1,open web site,start web,id,object1,dti1,expect data
+xx,wait,wait,-,-,2000,-
+2,click company,click,xpath,//span[@class='select2-selection__arrow'],-,-
+xx,wait,wait,-,-,3000,-
+3,input company,sent text,xpath,//input[@type='search'],PTT D,-
+xx,wait,wait,-,-,3000,-
+4,sent enter key,sent enter key,-,-,-,-
+5,input user,sent text,xpath,//div[@class='col-sm-8']//input[@type='text'],dti2,-
+6,input password,sent text,id,user_pwd,dti3,-
+7,click button login,click,id,loginBtn,-,-
+xx,waitloop,wait for element,xpath,/html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/button[1],14,-
+8,click button skip,click,xpath,/html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/button[1],-,-
+xx,wait,wait,-,-,3000,-
+9,comment,comment,-,-,Create Location,-
+xx,waitloop,wait for element,id,menu-6Dropdown,5,-
+10,click menu admin,forceclick,id,menu-6Dropdown,-,-
+xx,wait,wait,-,-,2000,-
+11,click menu location,forceclick,xpath,//*[@id="menu-6"]/div/a[5],-,-
+xx,wait,wait,-,-,2000,-
+12,click create location,forceclick,xpath,/html/body/div[5]/div/div[1]/div[1]/div/div[2]/a/button,-,-
+13,input location short name,sent text,id,location_short_name,dti4,-
+14,input location long name,sent text,id,lcation_long_name,dti5,-
+15,click submit,click,id,btn_submit_location,-,-
+xx,wait,wait,-,-,2000,-
+16,sent enter key,sent enter key,-,-,-,-
+17,comment,comment,-,-,Create Event,-
+18,click menu admin,forceclick,id,menu-6Dropdown,-,-
+xx,wait,wait,-,-,2000,-
+19,click menu event,forceclick,xpath,//*[@id="menu-6"]/div/a[4],-,-
+xx,wait,wait,-,-,2000,-
+20,click create event,forceclick,xpath,/html/body/div[5]/div/div[1]/div[1]/div/div[2]/a/button,-,-
+xx,wait,wait,-,-,2000,-
+21,input event description,sent text,id,event_description,dti6,-
+22,click submit,click,id,btn_submit_event,-,-
+xx,wait,wait,-,-,2000,-
+23,sent enter key,sent enter key,-,-,-,-
+24,comment,comment,-,-,Admin Control,-
+25,click menu admin,forceclick,id,menu-6Dropdown,-,-
+xx,wait,wait,-,-,2000,-
+26,click menu admin control,forceclick,xpath,//*[@id="menu-6"]/div/a[1],-,-
+xx,wait,wait,-,-,2000,-
+27,click create admin control,forceclick,xpath,/html/body/div[5]/div/div[1]/div[1]/div/div[2]/a/button,-,-
+xx,wait,wait,-,-,3000,-
+28,click location,click,id,select2-auto_location-container,-,-
+xx,wait,wait,-,-,2000,-
+29,search location,sent text,xpath,/html/body/span/span/span[1]/input,dti5,-
+30,sent enter key,sent enter key,-,-,-,-
+31,click event,click,id,select2-auto_event-container,-,-
+32,search event,sent text,xpath,/html/body/span/span/span[1]/input,dti6,-
+33,sent enter key,sent enter key,-,-,-,-
+34,click admin list,click,xpath,/html/body/div[5]/div[2]/div/div/div/div[1]/div[2]/div[3]/span/span[1]/span/ul,poo k,-
+35,sent enter key,sent enter key,-,-,-,-
+36,click signature,click,id,select2-userId-container,-,-
+37,search signature,sent text,xpath,/html/body/span/span/span[1]/input,นายประจักษ์ สว่างแผ้ว,-
+38,sent enter key,sent enter key,-,-,-,-
+xx,wait,wait,-,-,1000,-
+39,click submit,forceclick,xpath,//*[@id="btn_submit"],-,-
+xx,wait,wait,-,-,2000,-
+40,sent enter key,sent enter key,-,-,-,-
+41,comment,comment,-,-,Log out ,-
+42,click profile,forceclick,xpath,//*[@id="dropdownMenuButton"],-,-
+xx,wait,wait,-,-,2000,-
+43,click logout,forceclick,xpath,//*[@id="btnAdminLogout"],-,-
+xx,wait,wait,-,-,2000,-
+44,sent enter key,sent enter key,-,-,-,-
+xx,wait,wait,-,-,1000,-
+xx,comment,comment,-,-,Log In,-
+45,input user,sent text,xpath,//div[@class='col-sm-8']//input[@type='text'],dti2,-
+46,input password,sent text,id,user_pwd,dti3,-
+47,click company,click,xpath,//span[@class='select2-selection__arrow'],-,-
+48,input company,sent text,xpath,//input[@type='search'],PTT D,-
+49,sent key enter,sent enter key,-,-,-,-
+50,click button login,click,id,loginBtn,-,-
+xx,waitloop,wait for element,xpath,/html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/button[1],15,-
+52,click button skip,click,xpath,/html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/button[1],-,-
+53,wait,wait,-,-,3000,-
+xx,comment,comment,-,-,Create Product,-
+54,click menu admin,forceclick,id,menu-6Dropdown,-,-
+xx,wait,wait,-,-,1000,-
+55,click menu product,forceclick,xpath,//*[@id="menu-6"]/div/a[7],-,-
+xx,wait,wait,-,-,2000,-
+56,click create product,forceclick,xpath,/html/body/div[5]/div/div[1]/div[1]/div/div[2]/a/button,-,-
+57,input product description,sent text,xpath,//*[@id="product_description"],หมอน ATAS7,-
+58,click product type,click,xpath,//*[@id="select2-select_product_type-container"],-,-
+59,search product type,sent text,xpath,/html/body/span/span/span[1]/input,REDEEM,-
+60,sent key enter,sent enter key,-,-,-,-
+60,sent key enter,sent enter key,-,-,-,-
+61,input product unit,sent text,id,product_unit,10,-
+62,click submit,click,id,btn_submit_product,,-
+63,wait,wait,-,-,2000,-
+64,sent key enter,sent enter key,-,-,-,-
+xx,comment,comment,-,-,Create Stock,-
+65,click menu admin,forceclick,id,menu-6Dropdown,-,-
+xx,wait,wait,-,-,2000,-
+66,click menu stock,forceclick,xpath,//*[@id="menu-6"]/div/a[9],-,-
+xx,waitloop,wait for element,xpath,/html/body/div[5]/div[1]/div[1]/div/div[2]/a/button,14,-
+67,click create stock,forceclick,xpath,/html/body/div[5]/div[1]/div[1]/div/div[2]/a/button,-,-
+xx,wait,wait,-,-,2000,-
+68,click location,click,xpath,//*[@id="select2-con_location-container"],-,-
+69,search location,sent text,xpath,/html/body/span/span/span[1]/input,dti5,-
+70,sent enter key,sent enter key,-,-,-,-
+xx,wait,wait,-,-,2000,-
+xx,comment,comment,-,-,click product,-
+xx,wait,wait,-,-,2000,-
+xx,sent tab key,sent tab key,-,-,2,-
+xx,wait,wait,-,-,2000,-
+71,sent enter key,sent enter key,-,-,-,-
+xx,wait,wait,-,-,1000,-
+72,search product,sent text,xpath,/html/body/span/span/span[1]/input,หมอน ATAS7,-
+xx,wait,wait,-,-,1000,-
+73,sent enter key,sent enter key,-,-,-,-
+xx,wait,wait,-,-,2000,-
+74,input quantity,sent text,xpath,(//input[@type='text'])[4],10,-
+xx,wait,wait,-,-,2000,-
+75,click submit,click,xpath,/html/body/div[5]/div/div/center/button[2],-,-
+xx,wait,wait,-,-,2000,-
+76,click confirm,click,id,confirmStock,-,-
+xx,wait,wait,-,-,4000,-
+77,sent enter key,sent enter key,-,-,-,-
+xx,waitloop,wait for element,id,menu-6Dropdown,14,-
+xx,comment,comment,-,-,Create Content,-
+78,click menu admin,forceclick,id,menu-6Dropdown,-,-
+xx,wait,wait,-,-,2000,-
+79,click menu content,forceclick,xpath,//*[@id="menu-6"]/div/a[3],-,-
+xx,waitloop,wait for element,xpath,/html/body/div[5]/div/div[1]/div[1]/div/div[2]/a/button,14,-
+80,click create content,forceclick,xpath,/html/body/div[5]/div/div[1]/div[1]/div/div[2]/a/button,-,-
+xx,wait,wait,-,-,2000,-
+81,click location,click,xpath,//*[@id="select2-con_location-container"],-,-
+xx,wait,wait,-,-,2000,-
+82,search location,sent text,xpath,/html/body/span/span/span[1]/input,dti5,-
+83,sent enter key,sent enter key,-,-,-,-
+xx,wait,wait,-,-,2000,-
+84,input activity description,sent text,xpath,//*[@id="activity_description"],dti7,-
+85,input begin date,sent text,id,begin_date,01/09/2019,-
+86,input end date,sent text,id,end_date,10/09/2019,-
+87,input expire point,sent text,id,expire_point,10/09/2019,-
+xx,comment,comment,-,-,Click Product,-
+xx,sent tab key,sent tab key,-,-,5,-
+xx,wait,wait,-,-,2000,-
+88,sent enter key,sent enter key,-,-,-,-
+xx,wait,wait,-,-,1000,-
+89,search product,sent text,xpath,/html/body/span/span/span[1]/input,ขวดพลาสติก (ใส),-
+90,sent enter key,sent enter key,-,-,-,-
+91,input unit factor point,sent text,xpath,(//input[@type='text'])[14],0.33,-
+92,input weight factor point,sent text,xpath,(//input[@type='text'])[15],10,-
+93,click add type,forceclick,xpath,//*[@id="add_type_action"],-,-
+94,input redeem limit,sent text,xpath,(//input[@type='text'])[17],100,-
+95,input redeem point limit,sent text,xpath,(//input[@type='text'])[18],100,-
+96,click product,forceclick,id,select2-select_producttr21-container,-,-
+xx,comment,comment,-,-,Click Product,-
+xx,sent tab key,sent tab key,-,-,1,-
+xx,wait,wait,-,-,2000,-
+97,sent enter key,sent enter key,-,-,-,-
+xx,wait,wait,-,-,1000,-
+98,search product,sent text,xpath,/html/body/span/span/span[1]/input,หมอน ATAS7,-
+99,sent enter key,sent enter key,-,-,-,-
+100,input unit factor point,sent text,xpath,(//input[@type='text'])[19],10,-
+101,click submit,click,xpath,//*[@id="btn_submit_content"],-,-
+xx,wait,wait,-,-,2000,-
+102,sent enter key,sent enter key,-,-,-,-
+xx,comment,comment,-,-,Change Location,-
+103,click profile,forceclick,xpath,//*[@id="dropdownMenuButton"],-,-
+104,wait,wait,-,-,2000,-
+105,click edit,forceclick,xpath,//*[@id="editLocationBtn"],-,-
+xx,wait,wait,-,-,30000,-
+106,click location,click,xpath,//*[@id="locationSelectE"],-,-
+xx,wait,wait,-,-,20000,-
+107,select location,select dropdown,xpath,//*[@id="locationSelectE"],dti5,-
+xx,wait,wait,-,-,9000,-
+108,click edit,forceclick,id,editDataKeyIn,-,-
+xx,waitloop,wait for element,xpath,//*[@id="menu-1"]/a,14,-
+110,click menu authen user,forceclick,xpath,//*[@id="menu-1"]/a,-,-
+111,click key in,forceclick,xpath,//*[@id="keyInBtn"],-,-
+xx,wait,wait,-,-,3000,-
+112,click company,click,xpath,//*[@id="select2-company-container"],-,-
+xx,wait,wait,-,-,2000,-
+113,search company,sent text,xpath,//*[@id="exampleModal"]/span/span/span[1]/input,PTT D,-
+xx,wait,wait,-,-,1000,-
+114,sent enter key,sent enter key,-,-,-,-
+115,input user,sent text,id,authUser_id,dti2,-
+116,input password,sent text,id,authUser_pwd,dti3,-
+117,click submit,forceclick,id,submitBtn,-,-
+xx,wait,wait,-,-,10000,-
+118,sent enter key,sent enter key,-,-,-,-

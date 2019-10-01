@@ -1,0 +1,133 @@
+﻿seq,description,action,object Type,object,data,expected
+1,test description 1,start web,id,object1,dti1,expect data
+2,test description 2,sent text,xpath,//div[@class='col-sm-8']//input[@type='text'],dti2,""
+3,test description 3,sent text,id,user_pwd,dti3,-
+4,test,Click,xpath,//span[@class='select2-selection__arrow'],-,-
+5,test,ป้อนข้อมูล,xpath,//input[@type='search'],PTT D,""
+6,test,sent enter key,-,-,-,-
+7,test,click,id,loginBtn,-,-
+8,test,wait,-,-,19000,-
+9,test,click,xpath,/html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/button[1],-,-
+10,test,wait,-,-,3000,-
+11,test,click,id,menu-6Dropdown,-,-
+12,test,click,xpath,/html[1]/body[1]/div[3]/nav[1]/div[1]/div[1]/ul[1]/li[7]/div[1]/a[2],-,-
+13,test,wait,-,-,10000,-
+14,test,click,xpath,/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]/button[1],-,-
+16,test,sent text,xpath,/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]/div[1]/div[2]/input[1],dti4,-
+17,test,sent text,id,lcation_long_name,dti5,-
+18,test,click,id,btn_submit_location,-,-
+19,test comment,comment,-,-,assert text success,-
+20,wait for click button ok,wait,-,-,5000,-
+21,sent enter key,sent enter key,-,-,-,-
+22,test,wait,-,-,3000,-
+23,comment,comment,-,-,Start Create Event,-
+24,test,click,id,menu-6Dropdown,-,-
+25,Click menu create event,click,xpath,/html[1]/body[1]/div[3]/nav[1]/div[1]/div[1]/ul[1]/li[7]/div[1]/a[3],-,-
+22,test,wait,-,-,3000,-
+25,Click button create event,click,xpath,/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]/button[1],-,-
+26,Type event description,sent text,id,event_description,dti6,-
+27,Click button Submit,click,id,btn_submit_event,-,-
+xx,test,wait,-,-,3000,-
+xx,sent enter key,sent enter key,-,-,-,-
+xx,test,wait,-,-,3000,-
+24,test,click,id,menu-6Dropdown,-,-
+28,Click menu create content,forceclick,xpath,/html[1]/body[1]/div[3]/nav[1]/div[1]/div[1]/ul[1]/li[7]/div[1]/a[4],-,-
+xx,wait,wait,-,-,3000,-
+29,click button create content,forceclick,xpath,/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1],-,-
+xx,wait,wait,-,-,3000,-
+xx,sent tab key,sent tab key,-,-,12,-
+xx,sent enter key,sent enter key,-,-,-,-
+29,click location,forceclick,xpath,/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]/span[1]/span[2],-,-
+30,Select location,sent text,xpath,/html[1]/body[1]/span[1]/span[1]/span[1]/input[1],dti5,-
+xx,wait,wait,-,-,3000,-
+xx,sent enter key,sent enter key,-,-,-,-
+29,click event,click,xpath,/html[1]/body[1]/div[5]/div[1]/div[1]/div[3]/div[1]/span[1]/span[1]/span[1]/span[2],-,-
+30,Select event,sent text,xpath,/html[1]/body[1]/span[1]/span[1]/span[1]/input[1],dti6,-
+xx,wait,wait,-,-,3000,-
+xx,sent enter key,sent enter key,-,-,-,-
+31,set activities description,sent text,id,activity_description,dti7,-
+32,set begin date,sent text,id,begin_date,dti8,-
+33,set begin date,sent text,id,end_date,dti8,-
+34,set begin date,sent text,id,expire_point,dti8,-
+35,click select collect point,click,xpath,/html[1]/body[1]/div[5]/div[1]/div[1]/div[5]/div[3]/div[2]/div[1]/div[2]/div[1]/table[1]/tr[1]/td[4]/span[1]/span[1]/span[1]/span[2],-,-
+xx,wait,wait,-,-,3000,-
+36,set collect point name,sent text,xpath,/html[1]/body[1]/span[1]/span[1]/span[1]/input[1],ขวดพลาสติก (ใส),-
+xx,sent enter key,sent enter key,-,-,-,-
+37,set point collect,sent text,id,fac-pointtr11,0.33,-
+37,set point collect kg,ป้อนข้อมูล,id,fac-point-kktr11,10,-
+38,click add redeem,click,xpath,//button[@id='add_type_action'],-,-
+39,set redeem limit,sent text,id,redeem_limit2,100,-
+40,set Redeem Point Limit ,sent text,id,redeem_point_limit2,100,-
+xx,sent enter key,sent enter key,-,-,-,-
+41,click select product to redeem point,click,xpath,/html[1]/body[1]/div[5]/div[1]/div[1]/div[5]/div[3]/div[2]/div[2]/div[2]/div[1]/table[1]/tr[1]/td[4]/span[1]/span[1]/span[1]/span[2],bag,-
+42,set product to redeem,sent text,xpath,/html[1]/body[1]/span[1]/span[1]/span[1]/input[1],หมอน Godji,-
+xx,sent enter key,sent enter key,-,-,-,-
+44,set factor point,sent text,id,fac-pointtr21,5,-
+45,click submit button,click,id,btn_submit_content,-,-
+xx,wait,wait,-,-,1000,-
+xx,sent enter key,sent enter key,-,-,-,-
+xx,sent enter key,sent enter key,-,-,-,-
+xx,wait,wait,-,-,3000,-
+46,get position,forceclick,id,dropdownMenuButton,-,-
+xx,capture,capture,id,editLocationBtn,-,-
+47,click to select event,click,id,editLocationBtn,-,-
+xx,wait,wait,-,-,5000,-
+48,ป้อนข้อมูล Location,ป้อนข้อมูล,id,locationSelectE,dti5,-
+49,ป้อนข้อมูล Event,ป้อนข้อมูล,id,eventSelectE,dti6,-
+xx,capture,capture,id,eventSelectE,-,-
+48,ป้อนข้อมูล Location,ป้อนข้อมูล,id,locationSelectE,dti5,-
+50,ป้อนข้อมูล Activity,ป้อนข้อมูล,id,activitiesSelectE,dti7,-
+xx,capture,capture,id,activitiesSelectE,-,-
+51,กดปุ่ม Edit,click,id,editDataKeyIn,-,-
+xx,wait,wait,-,-,6000,-
+xx,sent enter key,sent enter key,-,-,-,-
+52,เลือกเมนู Collect point,forceclick,xpath,/html[1]/body[1]/div[3]/nav[1]/div[1]/div[1]/ul[1]/li[3]/a[1],-,-
+xx,wait,wait,-,-,6000,-
+53,กดปุ่ม Key in,forceclick,xpath,/html[1]/body[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/center[1]/button[1]/b[1],-,-
+xx,wait,wait,-,-,2000,-
+54,ป้อน User,ป้อนข้อมูล,id,authUser_id,thinakit,-
+55,ป้อน Password,ป้อนข้อมูล,id,authUser_pwd,1234,-
+56,คลิกบริษัท,click,xpath,/html[1]/body[1]/div[6]/div[1]/div[1]/div[2]/div[1]/span[1]/span[1]/span[1]/span[2],-,-
+57,ป้อนบริษัท,ป้อนข้อมูล,xpath,/html[1]/body[1]/div[6]/span[1]/span[1]/span[1]/input[1],ptt d,-
+xx,sent enter key,sent enter key,-,-,-,-
+58,กดปุ่ม Login,click,id,submitBtn,-,-
+xx,wait,wait,-,-,13000,-
+xx,sent enter key,sent enter key,-,-,-,-
+xx,wait,wait,-,-,4000,-
+59,test,forceclick,id,menu-6Dropdown,-,-
+60,click menu stock,forceclick,xpath,/html[1]/body[1]/div[3]/nav[1]/div[1]/div[1]/ul[1]/li[7]/div[1]/a[7],-,-
+61,กดปุ่ม Create,forceclick,xpath,/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[2]/a[1]/button[1],-,-
+xx,sent enter key,sent enter key,-,-,-,-
+xx,wait,wait,-,-,3000,-
+xx,sent tab key,sent tab key,-,-,13,-
+xx,sent enter key,sent enter key,-,-,-,-
+62,ป้อนข้อความ Location,sent text,xpath,/html[1]/body[1]/span[1]/span[1]/span[1]/input[1],dti5,-
+xx,sent enter key,sent enter key,-,-,-,-
+xx,sent tab key,sent tab key,-,-,1,-
+xx,sent enter key,sent enter key,-,-,-,-
+xx,capturescreen,capturescreen,-,-,-,-
+62,ป้อนข้อความ Event,sent text,xpath,/html[1]/body[1]/span[1]/span[1]/span[1]/input[1],dti6,-
+xx,sent enter key,sent enter key,-,-,-,-
+xx,sent tab key,sent tab key,-,-,1,-
+xx,sent enter key,sent enter key,-,-,-,-
+63,ป้อนข้อความ Product,sent text,xpath,/html/body/span/span/span[1]/input,หมอน Go,-
+xx,sent enter key,sent enter key,-,-,-,-
+xx,sent tab key,sent tab key,-,-,1,-
+xx,sent enter key,sent enter key,-,-,-,-
+63,ป้อนข้อความ Product,sent text,id,quantity,10,-
+64,กดปุ่ม Submit,click,xpath,/html/body/div[5]/div/div/center/button[2],-,-
+xx,wait,wait,-,-,7000,-
+xx,sent enter key,sent enter key,-,-,-,-
+xx,wait,wait,-,-,3000,-
+65,sent tab key,sent tab key,-,-,7,-
+xx,sent enter key,sent enter key,-,-,-,-
+xx,wait,wait,-,-,3000,-
+66,ป้อนข้อความ จำนวน,sent text,xpath,/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/input[1],1,-
+67,กดปุ่ม Submit,click,id,submitBtnCollect,-,-
+68,กดปุ่ม confirm,forceclick,xpath,/html[1]/body[1]/div[8]/div[1]/div[1]/div[2]/button[2],-,-
+xx,wait,wait,-,-,6000,-
+xx,sent enter key,sent enter key,-,-,-,-
+xx,click ok,forceclick,xpath,/html[1]/body[1]/div[8]/div[1]/div[1]/div[2]/button[1],-,-
+xx,wait,wait,-,-,4000,-
+xx,sent enter key,sent enter key,-,-,-,-
+xx,wait,wait,-,-,1000,-
